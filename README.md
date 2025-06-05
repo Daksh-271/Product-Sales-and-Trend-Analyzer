@@ -12,4 +12,4 @@ Core functionalities are: <br>
 • Clustering analysis to cluster products with scatter plots and silhouette scores. <br>
 
 ## Author
-<h1>DSP</h1>
+<h3>DSP</h3>
